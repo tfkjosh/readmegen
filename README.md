@@ -6,7 +6,7 @@
   ## Description
   Your task is to create a command-line application that dynamically generates a professional README.md file from a user's input using the Inquirer packageLinks to an external site.. Review the Professional README GuideLinks to an external site. as a reminder of everything that a high-quality, professional README should contain.
 
-  ##Acceptance Criteria 
+  ## Acceptance Criteria 
   GIVEN a command-line application that accepts user input
 WHEN I am prompted for information about my application repository
 THEN a high-quality, professional README.md is generated with the title of my project and sections entitled Description, Table of Contents, Installation, Usage, License, Contributing, Tests, and Questions
